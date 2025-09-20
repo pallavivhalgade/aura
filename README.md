@@ -23,5 +23,4 @@ A calming, supportive space and app designed to help users with mindfulness, str
 
 ---
 
-## 📂 Project Structure
 
