@@ -1,0 +1,7 @@
+{
+  "name": "Aura: Your Wellness Companion",
+  "description": "A confidential and empathetic AI mental wellness companion designed to support young people in managing stress, anxiety, and emotional challenges in a safe, stigma-free, and private way.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
