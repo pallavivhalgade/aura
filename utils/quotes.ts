@@ -1,0 +1,22 @@
+export const motivationalQuotes: string[] = [
+  "The sun is a daily reminder that we too can rise again from the darkness, that we too can shine our own light.",
+  "You are not a drop in the ocean. You are the entire ocean in a drop.",
+  "Progress, not perfection.",
+  "It's okay to not be okay. It's a part of the process.",
+  "The greatest act of courage is to be and to own all of who you are — without apology, without excuses, without masks.",
+  "You have permission to rest. You are not responsible for fixing everything that is broken.",
+  "Breathe. It's just a bad day, not a bad life.",
+  "Small steps every day.",
+  "Healing is not linear.",
+  "Feel the feeling but don't become the emotion. Witness it. Allow it. Release it.",
+  "Just because no one else can heal or do your inner work for you, doesn't mean you can, should, or need to do it alone.",
+  "Your feelings are valid. You have a right to feel whatever you feel, and you are not 'too sensitive'.",
+  "The best way out is always through.",
+  "Almost everything will work again if you unplug it for a few minutes, including you.",
+  "What you're going through is temporary. What you'll learn from it will last a lifetime.",
+  "Give yourself the same care and attention that you give to others and watch yourself bloom.",
+  "You've survived 100% of your worst days. You're doing great.",
+  "Let your emotions be your guide, not your dictator.",
+  "It's brave to ask for help.",
+  "Be patient with yourself. Nothing in nature blooms all year."
+];
