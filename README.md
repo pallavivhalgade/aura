@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Aura: Your Wellness Companion
 
-# Run and deploy your AI Studio app
+A calming, supportive space and app designed to help users with mindfulness, stress relief, and overall wellness.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1u4DO0RAEU7PcV-XzcIufr5DMXoSlqUty
+## ✨ Features
 
-## Run Locally
+- Calming user interface with minimal distractions.  
+- Guided breathing, meditation, or other wellness exercises.  
+- UX “quiet space” loader or splash screen while the app initializes.  
+- Personalized routines / progress tracking (optional).  
+- (You can add: notifications, reminders, soundscapes, mood tracking, etc.)
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Frontend: Web app (HTML, CSS, JavaScript / React / Vue / etc.)  
+- Backend / Hosting: Deployed to Google Cloud Run.  
+- Data storage / State management: (e.g., Firestore / SQLite / local storage)  
+- (Optional: any third-party APIs or libraries, e.g., for guided meditation audio, analytics.)
+
+---
+
+## 📂 Project Structure
+
